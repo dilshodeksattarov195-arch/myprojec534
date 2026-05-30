@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdtringify",
+        "uuid": 2608056,
+        "checksum": "gbqox"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
